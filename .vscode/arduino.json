@@ -1,0 +1,6 @@
+{
+    "board": "Heltec-esp32:esp32:wifi_lora_32_V2",
+    "configuration": "PSRAM=disabled,CPUFreq=240,UploadSpeed=921600,DebugLevel=none,LORAWAN_REGION=3,LoRaWanDebugLevel=0",
+    "port": "COM5",
+    "sketch": "Tarea_1\\Tarea_1.ino"
+}
